@@ -1,0 +1,22 @@
+{
+  "name": "yydsbox-contracts",
+  "description": "YYDS BOX",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "truffle compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yydsbox/yydsbox-contracts.git"
+  },
+  "author": "yydsbox <yydsbox@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.2.1",
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "ethereumjs-abi": "^0.6.8",
+    "fs-extra": "^10.0.0",
+    "truffle": "^5.1.52",
+  }
+}
